@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/community",
+  "source": "@site/src/pages/community.mdx",
+  "title": "Welcome to Apache Gravitino",
+  "description": "Apache Gravitino community discussions happen primarily in GitHub and the developer mailing list, and on the #gravitino channel on the ASF Slack workspace.",
+  "frontMatter": {},
+  "unlisted": false
+}

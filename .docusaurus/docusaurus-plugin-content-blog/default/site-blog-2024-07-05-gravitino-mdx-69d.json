@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/gravitino-open-source",
+  "editUrl": "https://github.com/apache/gravitino-site/tree/main/blog/2024-07-05-gravitino.mdx",
+  "source": "@site/blog/2024-07-05-gravitino.mdx",
+  "title": "Gravitino is an Open Source Data and AI Multi-Cloud Solution",
+  "description": "In the ever-evolving landscape of data and artificial intelligence, innovation is the key driver of progress. Gravitino is an open source, next-generation data and AI platform. Gravitino aims to unify all aspects of your data, analytics, and AI in one seamless accessible platform.",
+  "date": "2024-07-05T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "apache",
+      "permalink": "/blog/tags/apache"
+    },
+    {
+      "inline": true,
+      "label": "gravitino",
+      "permalink": "/blog/tags/gravitino"
+    },
+    {
+      "inline": true,
+      "label": "metadata",
+      "permalink": "/blog/tags/metadata"
+    },
+    {
+      "inline": true,
+      "label": "multicloud",
+      "permalink": "/blog/tags/multicloud"
+    }
+  ],
+  "readingTime": 3.06,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Justin Mclean",
+      "title": "PPMC Member",
+      "url": "https://github.com/justinmclean/",
+      "imageURL": "https://github.com/justinmclean.png",
+      "key": "jmclean"
+    }
+  ],
+  "frontMatter": {
+    "title": "Gravitino is an Open Source Data and AI Multi-Cloud Solution",
+    "slug": "gravitino-open-source",
+    "authors": [
+      "jmclean"
+    ],
+    "tags": [
+      "apache",
+      "gravitino",
+      "metadata",
+      "multicloud"
+    ]
+  },
+  "unlisted": false
+}

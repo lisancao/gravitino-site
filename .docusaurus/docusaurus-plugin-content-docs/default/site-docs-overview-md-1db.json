@@ -1,0 +1,20 @@
+{
+  "id": "overview",
+  "title": "Welcome to Apache Gravitino",
+  "description": "Gravitino is a high-performance, geo-distributed, and federated metadata lake. It manages the metadata directly in different sources, types, and regions. It also provides users with unified metadata access for data and AI assets.",
+  "source": "@site/docs/overview.md",
+  "sourceDirName": ".",
+  "slug": "/overview",
+  "permalink": "/docs/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/apache/gravitino-site/tree/main/docs/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "About",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs"
+}

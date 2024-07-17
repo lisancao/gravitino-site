@@ -27,7 +27,7 @@ export default function Home(): JSX.Element {
         <Layout title='Welcome'>
             <header className={clsx('hero', styles.heroBanner)}>
                 <div className="container">
-                <img src="img/front.jpg" />
+                <img src="img/front.svg" />
                 </div>
             </header>
             <main>
